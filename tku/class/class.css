@@ -1,0 +1,21 @@
+body {
+  font: 0.9rem Helvetica, '微軟正黑體', Sans-Serif;
+}
+table {
+  border: 2px solid black;
+  margin: auto;
+  max-width: 450px;
+  width: 80%;
+}
+td {
+  border: 1px solid black;
+  width: auto;
+  text-align: center;
+}
+.up {
+  background-color: lightgray;
+  
+  text-align: center;
+  letter-spacing: 0.2rem;
+  padding: 5px;
+}
